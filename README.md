@@ -1,4 +1,6 @@
-# ga-cicd-guide
-GitHub CI/CD 実践ガイドの練習リポジトリ
+# GitHub CI/CD 実践ガイド
 
-test
+GitHub CI/CD 実践ガイドの写経用リポジトリ
+
+[GitHub CI/CD 実践ガイド](https://www.amazon.co.jp/dp/B08QZ3VZ3Y)
+![GitHub CI/CD 実践ガイド](https://m.media-amazon.com/images/I/41Q6Q6Q6JNL.jpg)
